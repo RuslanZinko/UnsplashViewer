@@ -1,0 +1,35 @@
+PODS:
+  - FTPopOverMenu_Swift (0.0.6)
+  - HTTPStatusCodes (3.1.0)
+  - NSURL+QueryDictionary (1.2.0)
+  - Paparajote (1.1.4):
+    - NSURL+QueryDictionary (~> 1.2)
+  - Result (3.1.0)
+  - SDWebImage/Core (4.0.0)
+  - Unbox (2.3.1)
+  - UnsplashKit/API (2.0.6):
+    - UnsplashKit/Foundation
+  - UnsplashKit/Foundation (2.0.6):
+    - HTTPStatusCodes (~> 3.1)
+    - Result (~> 3.1)
+    - Unbox (~> 2.3)
+
+DEPENDENCIES:
+  - FTPopOverMenu_Swift (~> 0.0.6)
+  - Paparajote
+  - SDWebImage/Core
+  - UnsplashKit/API
+
+SPEC CHECKSUMS:
+  FTPopOverMenu_Swift: ddc5689b89d375e22efd7ccd0c022392f33785ea
+  HTTPStatusCodes: e0747e2497f1c887944a306b7d7122cb2a01f553
+  NSURL+QueryDictionary: bae616404e2adf6409d3d5c02a093cbf44c8a236
+  Paparajote: 223bb8bcb8ffbffa6249e2bb7442b0a1139c83cc
+  Result: 4e3ed5995ed94d0cd6a09be9a431fce3f3624bbf
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  Unbox: 96e54c15284b97244a1daf8ea560f648dd08f0db
+  UnsplashKit: 8e9991086e73c901f0585b23ef6ebac2d3bcca49
+
+PODFILE CHECKSUM: 5a4e174b9b843a38e12c20e1eadbd797e56b6430
+
+COCOAPODS: 1.1.1

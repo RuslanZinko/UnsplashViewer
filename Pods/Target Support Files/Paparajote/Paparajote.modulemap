@@ -1,0 +1,6 @@
+framework module Paparajote {
+  umbrella header "Paparajote-umbrella.h"
+
+  export *
+  module * { export * }
+}
